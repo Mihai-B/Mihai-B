@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @Mihai-B
  
  - 🔭 I’m currently working as a Software Developer in Cluj Napoca, Romania
- - 🌱 In my free time I like to work on diffrent types of projects. Currently I work a lot on  [Ticket Box](https://play.google.com/store/apps/details?id=ro.madcodestudios.ticket.box)
+ - 🌱 In my free time I like to work on different types of projects. Currently I work a lot on  [Ticket Box](https://play.google.com/store/apps/details?id=ro.madcodestudios.ticket.box)
 
  #### 📫 How to reach me:
  
