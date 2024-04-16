@@ -5,7 +5,7 @@
 
  #### 📫 How to reach me:
  
- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mihaib_/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/tvFqH3GMA4)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png"/>]([https://twitter.com/bmihai_](https://stackoverflow.com/users/2347490/mihai))
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mihaib_/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/tvFqH3GMA4)  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/240px-Stack_Overflow_icon.svg.png" width="3.5%"/>](https://stackoverflow.com/users/2347490/mihai)
  
 
 if you like what i do, maybe consider buying me a coffee
