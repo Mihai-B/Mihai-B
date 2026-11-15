@@ -1,7 +1,7 @@
-### 👋 Hi, I’m @Mihai-B
+### 👋 Hi, I’m @Mihai-B and I work as a full-time programmer that spends free time with more programming.
  
  - 🔭 I’m currently working as a Software Developer in Baia Mare, Romania
- - 🌱 In my free time I like to work on different types of projects. Currently I work on  [Ticket Box](https://play.google.com/store/apps/details?id=ro.madcodestudios.ticket.box)
+ - 🌱 In my free time I like to work on different kinds of projects. Right now I’m building [Ticket Box](https://play.google.com/store/apps/details?id=ro.madcodestudios.ticket.box)
 
  #### 📫 How to reach me:
  
@@ -11,8 +11,3 @@
 if you like what i do, maybe consider buying me a coffee
 
 <a href="https://www.buymeacoffee.com/b.mihai" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-<!---
-Version 1
---->
